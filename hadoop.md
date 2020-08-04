@@ -53,5 +53,6 @@ hadoop fs -text <full file path>   #  print content
 
 hadoop fs -get <full path>
 
-
+user.name=lv-wei
+user.email=13366824@qq.com
 
