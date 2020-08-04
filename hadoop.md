@@ -52,3 +52,6 @@ hadoop fs -put <files>
 hadoop fs -text <full file path>   #  print content
 
 hadoop fs -get <full path>
+
+
+
